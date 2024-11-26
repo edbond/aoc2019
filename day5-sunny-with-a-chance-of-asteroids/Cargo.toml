@@ -1,0 +1,8 @@
+[package]
+name = "day5-sunny-with-a-chance-of-asteroids"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.75"
+once_cell = "1.20.2"
